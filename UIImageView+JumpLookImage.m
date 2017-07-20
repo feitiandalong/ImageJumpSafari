@@ -12,6 +12,10 @@
 @implementation UIImageView (JumpLookImage)
 
 
+
+
+
+
 - (void)addCanJumpActionPath:(NSURL *)url{
     
 #ifdef DEBUG
